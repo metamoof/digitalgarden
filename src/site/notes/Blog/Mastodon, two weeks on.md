@@ -17,18 +17,7 @@ I actually had a mastodon account years ago and seem to have lost track of where
 
 As it is, we arrived, and there were a whole lot of people already there, and a whole bunch of abstractions already existing, so it's definitely a workable network
 
-## It's not the same
-> [!note]
-> - Tweets are not toots
-> - The timeline is different, but not always in ways that I like
-> 	- latest first (good, but bad)
-> 	- duplicates, too many boosts that I've already seen
-> 	- Seeing the replies before the original tweet
-> 	- Content warnings in the default view
-> - Introduction posts work!
-> - Language issues - very little spanish, a lot of german/dutch
-> - Images and videos
-
+## It's not the same as Twitter. It takes getting used to.
 The first and most obvious thing is that toots are longer. 500 characters by default instead of 288, but this can be configured on a per-instance basis, and I've seen toots that are several thousand characters appear on my timeline. 
 
 Also, Introduction posts work! When you join, you're encouraged to write a toot that is tagged [#introduction](https://mas.to/tag/introduction) and adding all sorts of tags that will help with your discovery, and [when I did], I found a whole bunch of people following me as a result.
@@ -46,10 +35,9 @@ Every boost is shown, even if I have already seen that toot boosted by someone b
 
 I'm also seeing the replies before the original tweet. This is quite frustrating, as I tend to click through, read the original tweet or thread, and then go back and I have to scroll through everything I've just read as part of my timeline, adding noise.
 
+There's a lot of tooting at the moment about algorithms, and I'm not certain that much of it makes sense, but there are a few things that would make the timeline nicer to read by fixing the above niggles. 
 
-
-There's a lot of tooting at the moment about algorithms, and I'm not certain that much of it makes sense, but there are a few things that would make the timeline nicer to read.
-
+There's also the post visibility issue. As far as I can tell, the orthodoxy is that replies should be made unlisted, especially on threads, but that is spottily implemented in clients, and requires a lot of education of users, especially those that have come over from twitter, so I'm unconvinced it's a good solution.
 
 ## I picked the wrong server
 I had spent part of the week just trying to find the right community for me to join. I wasn't really sure what server to go for, but I was wary of picking the wrong one, as I view it as a sort of surname, and I didn't want to be identified forever as "a geeky queer" or "radically pro-foss" or a number of other things that [my friend Matt seems to find helpful](https://fosstodon.org/@mattyames/109366533003991511). I ended up going for [mas.to](https://mas.to/) because the name was short, I figured that it would at least be easy to write all over the place.
@@ -58,27 +46,11 @@ But two weeks in, I'm increasingly of the opinion that I've made the wrong choic
 
 I wrote a [thread about this](https://mas.to/@moof/109412464289361914) that has devolved into much [[Ramblings/Mastodon Server Soul Searching\|Mastodon Server Soul Searching]]
 
-## Threads are weird
-So, twitter has really worked on threads as an alternative to full-on blogging. You can easily split a post into sentences and paragraphs that reply to the original post, and develop a thought that is longer than a mere 288 characters.
 
-Mastodon, on the other hand, hasn't advanced on this as much. The microblog limit is 500 characters by default, which is bigger than twitter, but the need to expand on that is still there. However, the poky little 
+## The smaller stuff
+* I'm somewhat surprised that the language mix has changed. I seem to have lost most of the Spanish language tweeters I followed, as they seem to have stayed there or moved onto something else. I am seeing a little more German and Dutch in my timeline though. 
+* Trending is strange: I posted a [toot on a trending topic](https://mas.to/@moof/109428422779631738) that genuinely went a bit viral, or at least gave me a lot more feedback than I'm used to seeing. At the time of writing, I have 56 boosts, and 134 favourites - which made my phone notifications go on for days. However, very few follows or replies arose from that.
+* People are a lot more willing to help out. I posted a [toot asking for help and contacts](https://mas.to/@moof/109422761531548209) and this had excellent take-up on Mastodon, much more than I was hoping for. On Twitter, I got one DM from a very old friend who offered some good leads, but little else in terms of interaction.
 
-[Thread on Logistics](https://mas.to/@moof/109432125072460279)
-[Question about Threads](https://mas.to/@moof/109425922637737444)
-
-## Client hunting is fun
-
-## The people are fun
-
-[Tech scene post](https://mas.to/@moof/109422761531548209)
-
-I'm somewhat surprised that the language mix has changed. I seem to have lost a lot of the spanish language tweeters I followed, as they seem to have stayed there or moved onto something else, 
-
-## Trending is... strange
-https://mas.to/@moof/109428422779631738
-
-## It's gotten me blogging!
-
-[[Ramblings/Web Presence Wrangling\|Web Presence Wrangling]]
-
-## All in all, I'm enjoying the experience
+## And it's got me blogging again!
+This is partly as a result of the fact that it's happening alongside my fixation with Obsidian, but I can definitely say that Mastodon is one of the things that pushed me into blogging again. 
