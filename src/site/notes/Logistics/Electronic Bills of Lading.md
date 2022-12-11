@@ -9,9 +9,12 @@ A bill of lading is a document that is used in the shipping industry. It acts as
 
 A bill of lading can also be used to settle disputes or prove that the goods were delivered in good condition. It can also be used as collateral for a loan or to transfer ownership of the goods. Sometimes, customs officials might also need to see the bill of lading in order to clear the goods for import or export.
 
+# Hang on, a Document of Title?
 In many jurisdictions, a bill of lading may be considered a negotiable instrument, which means that it can be transferred from one party to another by endorsement and delivery. For those of you who remember cheques, this is similar to how a cheque that has not been crossed can be transferred from one party to another.
 
 Documents of title are often used by importers and banks to help finance international shipments. For example, an importer might borrow money from a bank to pay for the goods they are importing. The bank might ask for the bill of lading as collateral for the loan, which means that the bank can take ownership of the bill of lading if the importer doesn't repay the loan. The importer can then use the loan to pay the shipper for the goods. Once the goods have been shipped and the bill of lading has been issued, the importer can endorse the bill of lading to the bank, transferring ownership of the document to the bank as collateral for the loan. The bank will hold onto the bill of lading until the loan is repaid.
+
+The act of transferring the document is known as "endorsement", which means "writing on the back of" (from the same Latin root as dorsal, meaning on the back). In the case of a paper Bill of Lading, the consignee literally writes "Deliver to the order of" and then the name of the new consignee, and signs it. In some jurisdictions, you can just sign it and this is known as a "Blank Endorsement", which has the same effect as a Blank Cheque - that is to say, whoever turns up with the Bill of Lading is considered the owner of the goods and can retrieve them.
 
 3.  Traditional paper-based bills of lading
 4.  Electronic bills of lading
