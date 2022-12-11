@@ -191,3 +191,39 @@ Let's get back to more specifics about documents of title.
 
 The highlighted bit is useful for my article, if a little verbose.
 
+This might actually become a section in its own right on my page.
+
+# Comments from Mastodon
+
+Lloyd Davis just added some interesting context to what this process looks like:
+
+> I think my best model of that TikTok guy is that you’ve hired three interns, one of whom has worked out a way to get the other two to do most of the work for them.
+> 
+> Your experiment seems to an exercise in putting yourself temporarily in the place of the “smart” intern. And then as a junior manager, you’re writing a report on your blog to be later analysed by your boss-brain superior self (and if it’s interesting enough, the board of other smart (in some cases!) folk you consort with - your readers).
+> 
+> -- [Lloyd Davis at 2022-12-11 10:38 UTC](https://octodon.social/@lloyddavis/109494605964432587)
+
+> each level requires a compartmentalisation of what you actually know, a temporary suspension, while working at the lowest level, of your actual domain knowledge. And I *think* that’s a type of behaviour that [@snowded](https://pinafore.social/accounts/109330202022618289 "@snowded") calls ‘aporia’
+> 
+> -- [Lloyd Davis at 2022-12-11 10:42 UTC](https://octodon.social/@lloyddavis/109494624481002039)
+
+# Endorsement
+
+I feel more detail is needed on endorsement. So I ask ChatGPT for more help.
+
+**What is endorsement and delivery?**
+
+> Endorsement and delivery are two steps that are involved in transferring a negotiable instrument, such as a check or a bill of lading, from one party to another.
+> 
+> Endorsement is the process of signing the back of a negotiable instrument to transfer ownership to another party. This is typically done by writing the name of the person or entity to whom the instrument is being transferred, followed by the words "pay to the order of" and the person or entity's signature. For example, if Alice wants to transfer ownership of a bill of lading to Bob, she would write Bob's name on the back of the bill of lading, followed by the words "pay to the order of" and her own signature. This indicates that Alice is transferring ownership of the bill of lading to Bob.
+> 
+> Delivery is the process of transferring possession of the negotiable instrument to the person or entity to whom it has been endorsed. This can be done physically, by handing the instrument to the person or entity, or it can be done electronically, by transferring the instrument through an electronic network. For example, if Alice endorses a bill of lading to Bob, she would then need to deliver the bill of lading to Bob in order for the transfer of ownership to be complete.
+> 
+> Together, endorsement and delivery are the two steps that are involved in transferring a negotiable instrument from one party to another. By signing the instrument and transferring possession of it, the parties involved in the transfer can establish the new ownership of the instrument and ensure that it can be used for its intended purpose.
+
+That's about half right, but wrong enough that I don't want to use it. It doesn't really explain what the transfer of ownership means in real terms (that the new owner can retrieve the goods), it uses the phrase "pay to the order of", which is correct on a cheque, but not on a bill of lading, where something more akin to "deliver to the order of" is correct. 
+
+The third paragraph is the clincher - delivery through an electronic network is what this article is supposed to be about, and it's certainly not that simple.
+
+In the end, I write my own paragraph about it.
+
