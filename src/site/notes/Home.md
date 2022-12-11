@@ -17,10 +17,7 @@ You can also find me on <a rel="me" href="https://mas.to/@moof">Mastodon</a> and
 - [[Blog/Mastodon, two weeks on\|Mastodon, two weeks on]]
 
 ## Recently changed Digital Garden notes
-- [[Home\|Home]]
-- [[Blog/Trying to use ChatGPT to research an article\|Trying to use ChatGPT to research an article]]
 - [[Logistics/Electronic Bills of Lading\|Electronic Bills of Lading]]
 - [[Colophon\|Colophon]]
-- [[Blog/Mastodon, two weeks on\|Mastodon, two weeks on]]
 - [[Meta/Digital Garden Technical Workflow\|Digital Garden Technical Workflow]]
 - [[Ramblings/Mastodon Server Soul Searching\|Mastodon Server Soul Searching]]
