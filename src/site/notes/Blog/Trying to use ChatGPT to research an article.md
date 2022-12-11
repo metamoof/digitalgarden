@@ -174,5 +174,20 @@ That's misunderstood me, but does give me some nice colour to explain more about
 
 I paste the highlighted bit into my article.
 
-Let's get back to more specifics.
+Let's get back to more specifics about documents of title.
+
+**Can you explain more about documents of title, with specific information about legal status, endorsements, similarity to cheques and what this is used for by importers and banks**
+
+*...answer elided*
+
+**Can you explain that less formally?**
+> Sure. A document of title is a document that shows who owns or has possession of goods. In the case of international shipping, a bill of lading can serve as a document of title, allowing the person or company receiving the goods (the consignee) to take possession of them when they arrive at the destination port. This is because the bill of lading typically includes information about the consignee, as well as the terms and conditions of the shipment. When the goods arrive at the destination port, the consignee can present the bill of lading as evidence of their ownership or possession of the goods, and take possession of them from the carrier.
+> 
+> In some cases, a document of title like a bill of lading may have legal status. This means that it is recognized by the law as a valid document that can be used for certain purposes. ==For example, a bill of lading may be considered a negotiable instrument, which means that it can be transferred from one party to another by endorsement and delivery. This is similar to how a check can be transferred from one party to another by endorsement and delivery.==
+> 
+> ==Documents of title are often used by importers and banks to help finance international shipments. For example, an importer might borrow money from a bank to pay for the goods they are importing. The bank might ask for the bill of lading as collateral for the loan, which means that the bank can take ownership of the bill of lading if the importer doesn't repay the loan. The importer can then use the loan to pay the shipper for the goods. Once the goods have been shipped and the bill of lading has been issued, the importer can endorse the bill of lading to the bank, transferring ownership of the document to the bank as collateral for the loan. The bank will hold onto the bill of lading until the loan is repaid.==
+> 
+> In this way, documents of title like bills of lading can be used to manage the risks of international trade and make it easier for goods to be shipped and delivered. They provide a way for importers and banks to protect themselves and ensure that the goods are delivered safely and securely to their destination.
+
+The highlighted bit is useful for my article, if a little verbose.
 
