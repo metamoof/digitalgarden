@@ -136,4 +136,43 @@ So instead, I decide on a different approach:
 > 9.  Legal and regulatory frameworks
 > 10.  Current challenges to widespread adoption of electronic bills of lading
 
-That's a tad generic, but it's the closest I've found to a structure as such. So into the note it goes, as a base to play with
+That's a tad generic, but it's the closest I've found to a structure as such. So into the note it goes, as a base to play with. I decide to delete the rest of the stuff, though for future occasions, what I might do is create a scratch note where I can keep the interactions and refer back to them, much as I am here.
+
+So I'm going to create a document outline from this. I promote everything to headings, and remove the "Introduction" section. I also add a section on blockchain, as it's part of the meat fo the document.
+
+# What is a bill of lading?
+
+Let's see if ChatGPT can write this document for me, or at least help me get some sections out.
+
+**What is a bill of lading?**
+
+> A bill of lading is a document that serves as a contract between a shipper and a carrier for the transportation of goods. It lists the details of the goods being shipped, the parties involved in the shipment, and the terms and conditions of the shipment. It also serves as a receipt for the goods, confirming that they have been received by the carrier and are being transported to the specified destination. In the case of international shipments, the bill of lading may also serve as a document of title, enabling the consignee to take possession of the goods upon arrival at the destination port.
+
+That's accurate, but pretty dry and full of unexplained jargon.
+
+**Can you explain that less formally, and with less jargon?**
+
+> Sure. A bill of lading is a document that is used in the shipping industry. It acts as a contract between the person or company sending goods (the shipper) and the person or company transporting the goods (the carrier). The bill of lading lists important information about the shipment, such as what is being shipped and where it is going. It also serves as a receipt, showing that the carrier has received the goods from the shipper. In some cases, the bill of lading can also be used as a kind of "ownership" document, allowing the person or company receiving the goods (the consignee) to take possession of them when they arrive at their destination.
+
+That's much better. I copy that in and edit it a bit. But I like the "document of title" bit, as it's relevant to several points below. Let's see if I can get more information:
+
+**Can you explain more about the document of title bit?**
+
+> A document of title is a document that serves as evidence of ownership or possession of goods. In the context of international shipping, a bill of lading can serve as a document of title, allowing the consignee to take possession of the goods upon their arrival at the destination port. This is because the bill of lading typically includes information about the consignee, as well as the terms and conditions of the shipment. When the goods arrive at the destination port, the consignee can present the bill of lading as evidence of their ownership or possession of the goods, and take possession of them from the carrier.
+
+That's not really explaining much, I particularly want to see more about endorsements
+
+**What other things can be done with it?**
+
+> In addition to serving as a contract, receipt, and document of title, a bill of lading can also be used for a number of other purposes. For example, it can be used as evidence in case of disputes over the terms and conditions of the shipment, or to prove that the goods were delivered in good condition. It can also be used as collateral for a loan, or to facilitate the transfer of ownership of the goods from the shipper to the consignee. In some cases, the bill of lading may also be required by customs authorities in order to clear the goods for import or export.
+
+That's misunderstood me, but does give me some nice colour to explain more about what a B/L is. So I run with it a little:
+
+**Can you say that a little less formally?**
+
+> Sure. A bill of lading is a document that has a few different uses in the shipping industry. It can act as a contract between the shipper and the carrier, and it can also serve as a receipt showing that the goods were received by the carrier. In some cases, it can also be used to take ownership of the goods when they arrive at their destination. ==A bill of lading can also be used to settle disputes or prove that the goods were delivered in good condition. It can also be used as collateral for a loan or to transfer ownership of the goods. Sometimes, customs officials might also need to see the bill of lading in order to clear the goods for import or export.==
+
+I paste the highlighted bit into my article.
+
+Let's get back to more specifics.
+
