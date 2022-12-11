@@ -115,5 +115,25 @@ I'm going to build a document outline. I was originally going to do it manually,
 
 That's a list that is maybe a little too thorough. And not thorough enough, I note "Bill of Lading" is not in that list.
 
-I duly pasted it into my note, and tried to pare it down a bit
+> [!TIP] Top Tip
+> Remember to specify a maximum length to your lists, or you'll get a LOT of information!
 
+
+I duly pasted it into my note, and tried to pare it down a bit. I realise quickly it's not going to help me too much, but it might serve as a checklist of concepts to talk about.
+
+So instead, I decide on a different approach:
+
+**Outline in no more than ten headings a document explaining what bills of lading are, what the challenges are to making it an electronic bill of lading, and what the current challenges are to widespread adoption**
+
+> 1.  Introduction to bills of lading
+> 2.  What is a bill of lading?
+> 3.  Traditional paper-based bills of lading
+> 4.  Electronic bills of lading
+> 5.  Benefits of electronic bills of lading
+> 6.  Challenges to making bills of lading electronic
+> 7.  Resistance to change
+> 8.  Technical and infrastructure challenges
+> 9.  Legal and regulatory frameworks
+> 10.  Current challenges to widespread adoption of electronic bills of lading
+
+That's a tad generic, but it's the closest I've found to a structure as such. So into the note it goes, as a base to play with
