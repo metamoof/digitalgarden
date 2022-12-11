@@ -3,7 +3,7 @@
 ---
 
 
-(This article is still being written, check later for update information!)
+(Live(ish) Blogging! This article is still being written, check later for update information!)
 
 So, today [I tooted](https://mas.to/@moof/109493421824493330) about [some](https://vm.tiktok.com/ZMFgqSUwC/) [videos](https://vm.tiktok.com/ZMFgqSttt/) by Riley Brown on tiktok of all places on how to use #ChatGPT and #Obsidian as a way to kick off research.
 
@@ -58,4 +58,62 @@ Thankfully there's a helpful "Try Again" button which yielded a much more verbos
 These answers are very fluffy, there's not a lot of substance to them. 
 
 The video then extols the virtues of going through the list and creating links to notes as a way to expand on some ideas, and build your document graph in Obsidian. 
+
+Though, that being said, they're a tad difficult to read later. Question-answer pairs make more sense.
+
+# Rearranging
+Reading the answers, I'm far from bowled over by their insightfulness. It certainly won't tell people much about the subject, and there's a lot of boilerplate.
+
+That being said, it is helpful in one sense. Like all people who have acquired knowledge in a domain, you may forget that basic concepts need explaining to the lay person, and even if you do remember that, you may be unable to judge how basic the concepts need to go. This has given me a list of concepts I'll need to lay out so that the content is at least approachable.
+
+More to the point, the structure in this set of notes is not particularly helpful, so rather than continue down the road the video suggests, I'm going to try something a little different
+
+I'm going to build a document outline. I was originally going to do it manually, but I decided to let ChatGPT have another go. So I pasted the above answers back into it, and then asked it to pull out key concepts I need to use to explain electronic bills of lading to the average person.
+
+**Extract a list of concepts from the below document that I would need to explain to an average person**
+
+> 1.  Electronic bills of lading
+> 2.  Barriers to adoption and implementation of electronic bills of lading
+> 3.  Resistance to change
+> 4.  Need for critical mass of stakeholders
+> 5.  Technical and infrastructure challenges
+> 6.  Robust and secure digital networks and systems
+> 7.  Cost and efficiency benefits of electronic bills of lading
+> 8.  Reduced paperwork
+> 9.  Faster processing times
+> 10.  Enhanced security and traceability
+> 11.  Digital signatures
+> 12.  Blockchain technology
+> 13.  Legal and regulatory frameworks
+> 14.  Regulations and standards
+> 15.  Existing laws and regulations
+> 16.  Accommodation of electronic bills of lading
+> 17.  Integration with supply chain management systems
+> 18.  Transportation management systems
+> 19.  Cargo tracking systems
+> 20.  Digital access and management of shipping documents
+> 21.  Streamlining supply chain operations
+> 22.  Real-time visibility and tracking
+> 23.  Digital signatures and cryptographic techniques
+> 24.  Prevention of fraud and tampering
+> 25.  Verification of authenticity of electronic bills of lading
+> 26.  Electronic authentication methods
+> 27.  Physical signatures and other forms of physical evidence
+> 28.  Range of legal and commercial contexts
+> 29.  Reduced administrative costs
+> 30.  Improved visibility and traceability
+> 31.  Risks and drawbacks of electronic bills of lading
+> 32.  Technical malfunctions or failures
+> 33.  Stakeholder access and use of electronic bills of lading
+> 34.  Robust security measures
+> 35.  Contingency planning
+> 36.  Training and support for stakeholders
+> 37.  Carrier, port, and customs authority views on electronic bills of lading
+> 38.  Digitalization and automation in shipping and logistics
+> 39.  Digital transformation of supply chain operations
+> 40.  Development of new, more efficient supply chain models.
+
+That's a list that is maybe a little too thorough. And not thorough enough, I note "Bill of Lading" is not in that list.
+
+I duly pasted it into my note, and tried to pare it down a bit
 
