@@ -15,8 +15,8 @@ This website is my own personal Digital Garden. Like all gardens when they start
 - [[Blog/Mastodon, two weeks on\|Mastodon, two weeks on]]
 
 ## Recently changed Digital Garden notes
-- [[Logistics/Electronic Bills of Lading\|Electronic Bills of Lading]]
 - [[Blog/Trying to use ChatGPT to research an article\|Trying to use ChatGPT to research an article]]
+- [[Logistics/Electronic Bills of Lading\|Electronic Bills of Lading]]
 - [[Home\|Home]]
 - [[Colophon\|Colophon]]
 - [[Blog/Mastodon, two weeks on\|Mastodon, two weeks on]]
