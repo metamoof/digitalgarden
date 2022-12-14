@@ -5,9 +5,11 @@
 
 (Live(ish) Blogging! This article is still being written, check later for update information!)
 
+Follow live commentary on this [Mastodon thread](https://mas.to/@moof/109493421824493330)
+
 So, today [I tooted](https://mas.to/@moof/109493421824493330) about [some](https://vm.tiktok.com/ZMFgqSUwC/) [videos](https://vm.tiktok.com/ZMFgqSttt/) by Riley Brown on tiktok of all places on how to use #ChatGPT and #Obsidian as a way to kick off research.
 
-Seeing as I'm a little stagnated on an article I want to write, I thought I'd try it out and blog the experience.
+Seeing as I'm a little stagnated on [[Logistics/Electronic Bills of Lading\|an article I want to write]], I thought I'd try it out and blog the experience.
 
 # The Premise
 Last week I tooted [a thread on the closure announcement of TradeLens](https://mas.to/@moof/109432125072460279), and I felt that to do it proper justice, I should explain in more detail what an [[Logistics/Electronic Bills of Lading\|Electronic Bill Of Lading]] is, and why the main issues around digitalisation of logistics documentation is not technological but legal, and so I created that note in Obsidian, and left some placeholder text to the toot thread.
