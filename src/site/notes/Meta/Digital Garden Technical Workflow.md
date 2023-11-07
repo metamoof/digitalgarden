@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/meta/digital-garden-technical-workflow/"}
+dg-publish: true
 ---
-
 I've only really begun getting started with this website, so right now, it's all very basic.
 
 I write my notes in [Obsidian][https://obsidian.md/] - a Markdown-based note taking application. I am still very much working on my methodology.
