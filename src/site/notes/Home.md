@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
 
@@ -13,11 +13,15 @@ This website is my own personal Digital Garden. Like all gardens when they start
 You can also find me on <a rel="me" href="https://mas.to/@moof" target="_blank" class="external-link">Mastodon</a> and I was also available on [Twitter](https://twitter.com/moof), though that's more of a historical archive these days.
 
 ## Latest Blog Posts
-- [[Blog/Trying to use ChatGPT to research an article\|Trying to use ChatGPT to research an article]]
+- [[Blog/Invoking New Outlook\|Invoking New Outlook]]
 - [[Blog/Mastodon, two weeks on\|Mastodon, two weeks on]]
+- [[Blog/Trying to use ChatGPT to research an article\|Trying to use ChatGPT to research an article]]
 
+{ .block-language-dataview}
 ## Recently changed Digital Garden notes
-- [[Logistics/Electronic Bills of Lading\|Electronic Bills of Lading]]
 - [[Colophon\|Colophon]]
-- [[Meta/Digital Garden Technical Workflow\|Digital Garden Technical Workflow]]
 - [[Ramblings/Mastodon Server Soul Searching\|Mastodon Server Soul Searching]]
+- [[Meta/Digital Garden Technical Workflow\|Digital Garden Technical Workflow]]
+- [[Logistics/Electronic Bills of Lading\|Electronic Bills of Lading]]
+
+{ .block-language-dataview}
